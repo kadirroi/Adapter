@@ -19,7 +19,7 @@ public class Home {
 
 	     alaHesapla= new  AdapterDikdortgen();
 		System.out.println("Adaptör Alaný:"+alaHesapla.alanHesapla(20,50));
-		
+		System.out.println("Selam");
 	}
 
 }
