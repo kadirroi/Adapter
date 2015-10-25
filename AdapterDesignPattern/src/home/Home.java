@@ -18,7 +18,7 @@ public class Home {
 		
 
 	     alaHesapla= new  AdapterDikdortgen();
-		System.out.println("Adaptör Alaný:"+alaHesapla.alanHesapla(20,
+		System.out.println("Adaptör Alaný:"+alaHesapla.alanHesapla(20,40));
 		
 	}
 
